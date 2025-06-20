@@ -1,7 +1,6 @@
 # andromeda
 
 Hola Mundo! Este es mi primer cambio.
-Este es otro cambio.
 
-Pull rebase.
-Push
+En la rama feature.
+Hola desde local.
